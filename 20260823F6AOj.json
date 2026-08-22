@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "title": "我奔跑的时候拿着手电筒向前射出一束光，那这束光的速度是不是相对地面超过了光速？",
+    "author": "蛙襾洣",
+    "time": "2026年08月23日01时04分42秒",
+    "version": "2.0"
+  },
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListOrder": "https://schema.org/ItemListOrderUnordered",
+  "name": "宝石老舅祝你七夕快乐",
+  "description": "人形机器人精准接水",
+  "about": {
+    "@type": "Thing",
+    "name": "www.blog.zzissoh.cn"
+  },
+  "mainEntity": {
+    "@type": "WebPage",
+    "name": "老人别把“没力气”当正常衰老",
+    "description": "内容页的详细描述，可包含www.blog.zzissoh.cn的相关信息。",
+    "author": {
+      "@type": "Person",
+      "name": "鸮忏檠"
+    },
+    "datePublished": "2026年08月23日01时04分42秒",
+    "dateModified": "2026年08月23日01时04分42秒",
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "今日辟谣｜“新疆喀什经济开发区零地价供地免租金”系谣言",
+      "url": "http://www.blog.zzissoh.cn/Article/details/727368.sHtML"
+    }
+  },
+  "share_links": [
+    {
+      "platform": "被 AI 碾压 30 年后，人们重新爱上了下棋",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/019112.sHtML"
+    },
+{
+      "platform": "西安通报赛格商场与坠楼者纠纷情况",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/980566.sHtML"
+    },
+{
+      "platform": "企业 AI Agent 的真正门槛，不是模型能力，而是工作底座",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/697666.sHtML"
+    },
+{
+      "platform": "为什么大家看《甄嬛传》时总跳过凌云峰谈恋爱？这背后其实反映了这种心理",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/849215.sHtML"
+    },
+{
+      "platform": "七夕男朋友没有任何表示",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/137474.sHtML"
+    },
+{
+      "platform": "美军紧急“救援”林肯号",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/063469.sHtML"
+    },
+{
+      "platform": "今年的夏天像是一场梦，不知不觉就到秋天了。",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/529444.sHtML"
+    },
+{
+      "platform": "全家偷听我心声杀疯了,我负责吃奶",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/348550.sHtML"
+    },
+{
+      "platform": "一年体脂降10%，我发现：改变行动的不是自律，而是认知",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/541008.sHtML"
+    },
+    {
+      "platform": "今天是轩子老师的生日，你想对她说些什么？",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/889448.sHtML"
+    },
+{
+      "platform": "【HarmonyOS 7 悬浮页签深度实战】02 从普通底栏到第一个悬浮页签",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/095470.sHtML"
+    },
+{
+      "platform": "42岁男子玩漂流致四肢瘫痪",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/545026.sHtML"
+    },
+{
+      "platform": "七夕广东迎来领证高峰",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/224683.sHtML"
+    },
+{
+      "platform": "阿里二面：RAG的内容超出知识库范围，应该如何检测和拒绝回答，以避免幻觉产生？我说三点，面试官频频点头…",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/854184.sHtML"
+    },
+{
+      "platform": "“龙餐馆”走红谁又“破防”了",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/030262.sHtML"
+    },
+{
+      "platform": "上海一考生中考 700 分放弃市重点选择中本贯通，中本贯通具有什么竞争优势？如何看待这一选择？",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/071577.sHtML"
+    },
+{
+      "platform": "情侣领证男生把婚前财产都给女生",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/062906.sHtML"
+    },
+{
+      "platform": "下班了，年轻人赶着去做副业",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/477839.sHtML"
+    },
+{
+      "platform": "奥运冠军李雪芮点评安洗莹：没什么进攻，但核心很强、防守好",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/907646.sHtML"
+    },
+    {
+      "platform": "日本人烈日下大排长龙买中国相机",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/139354.sHtML"
+    },
+{
+      "platform": "媒体：请放过一个努力的蓝发女孩",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/493116.sHtML"
+    },
+{
+      "platform": "金山办公 2026 年上半年归母净利润 25.18 亿元，同比增长 236.94%",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/923632.sHtML"
+    },
+{
+      "platform": "独家：宇树上市庆功宴上，王兴兴首次明确「大脑」的技术路线",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/114418.sHtML"
+    },
+{
+      "platform": "处长单位门口遭枪击高位截瘫7年后去世 案件25年未破",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/724924.sHtML"
+    },
+{
+      "platform": "胖东来招聘不包含性侵犯罪人员",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/227668.sHtML"
+    },
+{
+      "platform": "官方通报佛山一中学教师招聘违规事件",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/278121.sHtML"
+    },
+{
+      "platform": "这款厨房纸立即停用",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/212882.sHtML"
+    },
+{
+      "platform": "星铁知更鸟晴歌综合测评",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/132937.sHtML"
+    },
+{
+      "platform": "开源两天 9.5 万 Star！DeepSeek Harness 到底是个啥？小白安装到实战一篇讲透",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/138187.sHtML"
+    },
+    {
+      "platform": "从聊天应答到业务闭环：AI Agent 落地的实战指南与出海新机遇",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/513308.sHtML"
+    },
+{
+      "platform": "华东首个，京东物流长三角至京津冀电商多式联运快速班列成功开行",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/039017.sHtML"
+    },
+{
+      "platform": "网站升级了，我却有点舍不得",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/937155.sHtML"
+    },
+{
+      "platform": "一批厨房纸巾被召回",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/022499.sHtML"
+    },
+{
+      "platform": "男子花9元喜中1728万大奖",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/027655.sHtML"
+    },
+{
+      "platform": "王兴兴谈离开大疆创办宇树：从小就热爱机器人，2016 年就已预判到技术发展方向和趋势",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/655647.sHtML"
+    },
+{
+      "platform": "Moderna美股盘前涨超80% 公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/078607.sHtML"
+    },
+{
+      "platform": "面试官说"打开你的AI工具"——我才发现，他考的根本不是写代码",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/724114.sHtML"
+    },
+{
+      "platform": "大学生一个月给多少生活费合适",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/522425.sHtML"
+    },
+{
+      "platform": "【七夕快乐】「跟你住」，“想搬进你心里，其它烦心的都不考虑”（cover：孙盛希）",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/749682.sHtML"
+    },
+    {
+      "platform": "外交部：中国公民谨慎赴帕劳旅游",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/514356.sHtML"
+    },
+{
+      "platform": "实证研究：AI杀猪盘比人类更强，已上岗缅甸",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/960302.sHtML"
+    },
+{
+      "platform": "敢反资本敢拍强权！《龙餐馆》立意封神，却被有几处剧本逻辑漏洞。",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/440339.sHtML"
+    },
+{
+      "platform": "美媒评新赛季30队强弱变化！76人升级明显，火箭湖人勇士均被看衰",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/756900.sHtML"
+    },
+{
+      "platform": "复刻龙餐馆徐福烩饭",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/578282.sHtML"
+    },
+{
+      "platform": "报，国外晚上又是大涨。",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/222468.sHtML"
+    },
+{
+      "platform": "我是周星驰影迷，看到很多人说沈腾已经超越了周星驰，这个观点我并不反对。江山代有才人出，各领风骚数百年，没有人能够永远是第一，周星驰有过自己的光辉岁月这就够了。而且中国的电影历史不太可能绕开他不谈的。",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/515143.sHtML"
+    },
+{
+      "platform": "女子买猫窝到货后爬出一只猫",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/308887.sHtML"
+    },
+{
+      "platform": "多地宣布：调整最低工资标准",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/805217.sHtML"
+    },
+{
+      "platform": "女孩下海遭海蜇蜇伤进ICU 母亲：5米外的救生员未施救",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/154902.sHtML"
+    },
+    {
+      "platform": "列车上被陌生男子用手戳胸",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/674519.sHtML"
+    },
+{
+      "platform": "性侵幼女、枪杀妻子，美国一曾任职警局红通逃犯潜逃来华，化身高校外教颇受欢迎，被学生在通缉令上认出，已被中国警方遣返回美",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/273407.sHtML"
+    },
+{
+      "platform": "衣服破了你还缝？滴点小药水，它自己能长回来",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/557915.sHtML"
+    },
+{
+      "platform": "爱上已婚胡军、为富豪生双胞胎？刘涛近况曝光 资源下跌 8年睡不着",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/373713.sHtML"
+    },
+{
+      "platform": "媒体：董明珠办技校学费可以再低点",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/344885.sHtML"
+    },
+{
+      "platform": "PyTorch强化学习实战（22）——将强化学习应用于TextWorld互动小说游戏",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/725567.sHtML"
+    },
+{
+      "platform": "【绝望女神/一千关注A站独家MMD翻唱】【偶像】",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/445221.sHtML"
+    },
+{
+      "platform": "韩国特检组追加起诉金建希涉官邸搬迁违规；李在明称任内完成战时指挥权移交",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/151604.sHtML"
+    },
+{
+      "platform": "4岁自闭症男童走失被找到 家中摆宴致谢宾客坐满350桌",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/532027.sHtML"
+    },
+{
+      "platform": "以你目前的眼光，你会选女儿还是妈妈？",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/504181.sHtML"
+    },
+    {
+      "platform": "紫牛头条｜江苏3岁罕见病女童完成冷冻卵巢手术，妈妈：希望给女儿未来选择的权利",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/828725.sHtML"
+    },
+{
+      "platform": "韩国史上最恐怖连环杀人案《追击者》这样的地方恶魔只会越来越多",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/647065.sHtML"
+    },
+{
+      "platform": "Zookeeper - 分布式配置中心的搭建与实操实践",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/269887.sHtML"
+    },
+{
+      "platform": "Anthropic求锤得锤！Mythos 2被曝雪藏，Mythos 3正秘密研发",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/069593.sHtML"
+    },
+{
+      "platform": "时间戳随机修改工具",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/673003.sHtML"
+    },
+{
+      "platform": "上海书展 | 当71岁的莫言蹲下和轮椅上的读者合影，文学的美好发生在每一个具体的人身上",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/416699.sHtML"
+    },
+{
+      "platform": "宇树科技王兴兴快手号找到了",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/378237.sHtML"
+    },
+{
+      "platform": "从选址到开业，决定一家店活下来的是什么？",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/006287.sHtML"
+    },
+{
+      "platform": "吃着不甜，却能让血糖飙升的8种食物！还是公认健康粗粮！",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/533887.sHtML"
+    },
+{
+      "platform": "统统删除！不再做付费软件的奴隶",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/622934.sHtML"
+    },
+    {
+      "platform": "1969年、美国演员马修·派瑞出生",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/908724.sHtML"
+    },
+{
+      "platform": "贵金属市场杀出一匹黑马，铱价暴涨远超黄金",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/910917.sHtML"
+    },
+{
+      "platform": "43.89万人次再创新高！第 23 届 ChinaJoy 圆满落幕",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/084926.sHtML"
+    },
+{
+      "platform": "宇树科技上市首日收涨 460%：开盘一度暴涨 629% 市值突破 4400 亿，中一签浮盈近 35 万元",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/236458.sHtML"
+    },
+{
+      "platform": "榜一大哥打赏千万后要求陪睡",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/375645.sHtML"
+    },
+{
+      "platform": "大学生版暴走大事件",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/719626.sHtML"
+    },
+{
+      "platform": "刘一朵真成全国景区了",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/563656.sHtML"
+    },
+{
+      "platform": "香港朋友发的这是真的吗洗碗工赶上内地二线白领了",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/248800.sHtML"
+    },
+{
+      "platform": "竹知了事件的“罗生门”：华为投诉的是人身攻击，不是非遗玩具",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/790583.sHtML"
+    },
+{
+      "platform": "三亚小众玩法 | 春天刚来，我便开始想念海边的漫时光",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/816710.sHtML"
+    },
+    {
+      "platform": "美国长期国债收益率为什么持续新高",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/766628.sHtML"
+    },
+{
+      "platform": "召唤大将怪兽摧毁文件",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/359693.sHtML"
+    },
+{
+      "platform": "前端切图仔被 AI 新闻淹死的第 N 天,我用 TRAE Work 定时任务救了自己",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/672700.sHtML"
+    },
+{
+      "platform": "一个禁止w7和w10/w11系统更新的小软件3.0正式版，屏蔽w11升级提醒。（已更新）",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/823763.sHtML"
+    },
+{
+      "platform": "HWG！国米3500万欧拿下琼斯，英超“三斯”齐聚梅阿查掀蓝黑风暴",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/632862.sHtML"
+    },
+{
+      "platform": "WTM何时出现？8个月内的必然",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/534625.sHtML"
+    },
+{
+      "platform": "升学宴就是陋习，为何很多省份都搞这个？",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/230026.sHtML"
+    },
+{
+      "platform": "重大突破！朱雀三号遥二发射成功，我国首次实现火箭陆地回收",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/323943.sHtML"
+    },
+{
+      "platform": "我的前半生9年后为何又爆火",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/975027.sHtML"
+    },
+{
+      "platform": "豹启新境，2027款海豹06满配上市，售价9.99万元起",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/927759.sHtML"
+    },
+    {
+      "platform": "老叟戏顽童之模仿棋",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/923097.sHtML"
+    },
+{
+      "platform": "【AI智能体】Codex 生成高质量电商套图实战操作详解",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/463549.sHtML"
+    },
+{
+      "platform": "公共泳池内男子在儿童区搓脚",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/745884.sHtML"
+    },
+{
+      "platform": "小猫一脚干碎主人七八千元玉镯",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/691598.sHtML"
+    },
+{
+      "platform": "AI 芯片初创企业 Etched 估值飙升至 210 亿美元，首批机架出货",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/249968.sHtML"
+    },
+{
+      "platform": "曼城发布瓜迪奥拉执教纪录片",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/410124.sHtML"
+    },
+{
+      "platform": "8月19日下午国乒最新消息：2好1坏消息，王曼昱，陈幸同，王艺迪",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/909411.sHtML"
+    },
+{
+      "platform": "1985年、北回归线标志塔在广州落成",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/378725.sHtML"
+    },
+{
+      "platform": "家长被索要清洁费未果遭尾随",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/608258.sHtML"
+    },
+{
+      "platform": "卡位BBA、突围新势力，魏牌V8X以“极致”定义大五座旗舰SUV价值标杆",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/248553.sHtML"
+    },
+    {
+      "platform": "马上评｜合力铲除滋生假名人的社会土壤",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/785695.sHtML"
+    },
+{
+      "platform": "1942年、斯大林格勒大会战在纳粹德国和苏联之间展开",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/514617.sHtML"
+    },
+{
+      "platform": "为什么呀？老登股都跌那么惨？",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/888475.sHtML"
+    },
+{
+      "platform": "桃黑黑宣布暂时休息",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/848565.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 插件：HTML 实时可视化编辑",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/955506.sHtML"
+    },
+{
+      "platform": "2000年、中国三江源自然保护区成立",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/306794.sHtML"
+    },
+{
+      "platform": "AI 编程工程化：实战——从 0 到 1 搭建 AI 编程工作流",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/846825.sHtML"
+    },
+{
+      "platform": "意图刺杀美财长 美一公民获刑6年",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/453153.sHtML"
+    },
+{
+      "platform": "开启Benchmark的Harness时代：十五家学术机构联合发布HarnessEval",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/828639.sHtML"
+    },
+{
+      "platform": "从《功夫女足》票房失利来看，国内观众最终还是选择抛弃了周星驰，至此所有的香港演员最后的那一点辉煌和遮羞布都没有了。",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/848082.sHtML"
+    },
+    {
+      "platform": "新一轮事业单位改革：三类人可转参公，四类人员统一分流安置",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/027722.sHtML"
+    },
+{
+      "platform": "实用汉字转拼音4.8 UI优化版",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/330308.sHtML"
+    },
+{
+      "platform": "《人民日报》刊文：“两个80%”的警示",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/868711.sHtML"
+    },
+{
+      "platform": "12台大疆运动相机随火箭上天",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/070255.sHtML"
+    },
+{
+      "platform": "印尼强震靠手电接生",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/069862.sHtML"
+    },
+{
+      "platform": "空枪檀健次模仿广西普通话",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/435387.sHtML"
+    },
+{
+      "platform": "欧洲现在没有一个共产主义国家，马克思如果看到这一幕、会不会万念俱灰",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/721370.sHtML"
+    },
+{
+      "platform": "被马斯克点评赶超猎鹰9号的中国火箭，刚刚完成了一级火箭陆地垂直回收！",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/944988.sHtML"
+    },
+{
+      "platform": "罗马诺：曼联6500万镑报价巴莱巴，交易接近完成",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/045393.sHtML"
+    },
+{
+      "platform": "追求源于热爱创业首秀：万志强发布PANDAER新品及DreamGoGo众筹平台",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/414801.sHtML"
+    },
+    {
+      "platform": "一个不会游戏开发的人，用 AI 把一款小游戏做到上线了",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/246475.sHtML"
+    },
+{
+      "platform": "Marvell 与谷歌签署定制芯片协议并授予其大额认股权证：行权价 206.58 美元，盘前涨超 10%",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/757185.sHtML"
+    },
+{
+      "platform": "宇树新品机器人原地跳高2米",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/787497.sHtML"
+    },
+{
+      "platform": "中国气象局：8月西南地区东部等地发生区域性极端高温事件概率较大",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/396673.sHtML"
+    },
+{
+      "platform": "全新深蓝S05上市11.59万元起，全球时尚激光智能SUV全面进阶",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/540930.sHtML"
+    },
+{
+      "platform": "申通老板娘前夫撤诉，2.8亿元离婚“旧账”画上句号！",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/045106.sHtML"
+    },
+{
+      "platform": "直接就是养乐多啊，这么直接的吗？",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/291761.sHtML"
+    },
+{
+      "platform": "热门餐厅免费排号成黄牛牟利新赛道，有人5天赚40万，专家称无法精准打击，为什么？现行法律存在哪些漏洞？",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/148837.sHtML"
+    },
+{
+      "platform": "现在KTV里还有这种表演？",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/326571.sHtML"
+    },
+{
+      "platform": "解码提速15.1倍、多任务性能不降：复旦&引望WAM-Diff2打通自动驾驶VLA自回归—扩散转换",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/681148.sHtML"
+    },
+    {
+      "platform": "美股三大指数集体高开 Moderna涨超83%",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/060670.sHtML"
+    },
+{
+      "platform": "我国首次实现火箭陆地回收，外媒反应来了",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/416239.sHtML"
+    },
+{
+      "platform": "预售43.98万起，享界G9静态评测首发，以科技豪华注入硬派内核",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/046321.sHtML"
+    },
+{
+      "platform": ""最支持犹太人定居点"的美国大使 称以定居者恐怖分子",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/570643.sHtML"
+    },
+{
+      "platform": "超5000只个股下跌 明天如何应对",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/867175.sHtML"
+    },
+{
+      "platform": "400 余款 App、SDK 被处置处罚，网信办严打涉信息泄露等违法犯罪行为",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/570459.sHtML"
+    },
+{
+      "platform": "奇耻大辱,我的网站被挂马,服务器已沦陷三个月",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/928246.sHtML"
+    },
+{
+      "platform": "【微特稿】高温炙烤韩国 釜山破122年来最高气温纪录",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/463719.sHtML"
+    },
+{
+      "platform": "含金量拉满！智界 V9 七月单月交付突破 1 万台，打破高端MPV 市场格局",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/458563.sHtML"
+    },
+{
+      "platform": "Claude Code 是怎么恢复一段会话的？",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/372009.sHtML"
+    },
+    {
+      "platform": "微信视频号下载助手 wx_channel V5.7.1",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/724768.sHtML"
+    },
+{
+      "platform": "股价涨完后，百亿算力大单接连告吹",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/963625.sHtML"
+    },
+{
+      "platform": "不用PyTorch，我用C++手写了一个能认手写数字的神经网络",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/843655.sHtML"
+    },
+{
+      "platform": "马斯克遭遇“黑色七月”，个人财富缩水约合人民币2.45万亿元，相当于亏掉2个“黄仁勋”",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/532279.sHtML"
+    },
+{
+      "platform": "烤肉店回应店内不雅标语",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/099767.sHtML"
+    },
+{
+      "platform": "【短视频】七夕快乐呀呀",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/325442.sHtML"
+    },
+{
+      "platform": "为了直播涨粉 打造“猛男”人设，男子徒手偷走村口150斤石墩！民警依法处以行政罚款 800 元",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/164193.sHtML"
+    },
+{
+      "platform": "王兴兴为什么全程没笑",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/459933.sHtML"
+    },
+{
+      "platform": "袁娅维闪现墨尔本街头即兴演唱",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/308899.sHtML"
+    },
+{
+      "platform": "仅有百股跌停，多达300多只上涨",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/269428.sHtML"
+    },
+    {
+      "platform": "猪猪侠之英雄猪少年",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/380635.sHtML"
+    },
+{
+      "platform": "俄罗斯一老兵跳伞表演中降落伞未能打开，从600米空中坠亡，其曾试图打开备用降落伞，因距离地面太近失败",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/511177.sHtML"
+    },
+{
+      "platform": "华系适合年轻人的车来了",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/190651.sHtML"
+    },
+{
+      "platform": "反抗强拆致死判无罪",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/496664.sHtML"
+    },
+{
+      "platform": "一边练逃跑一边练斩首，收台信号愈发清晰，统一进程正在加速",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/561867.sHtML"
+    },
+{
+      "platform": "中国小伙越南见女友家长被海浪卷走失联 搜救多日无果",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/701621.sHtML"
+    },
+{
+      "platform": "银行“反内卷”，建行一家分行火了：员工午休1.5小时，暂停全部人工柜面服务！业内人士：过去几十年大家不午休，是因为谁都不敢第一个休",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/557192.sHtML"
+    },
+{
+      "platform": "真爱降临时，请为我响起Take my hand 【夏雅】",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/100228.sHtML"
+    },
+{
+      "platform": "快手 2026 财年上半年归母净利润 60.49 亿元，同比下降 32%",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/009593.sHtML"
+    },
+{
+      "platform": "中国航天事业的开拓者之一、运载火箭与战略导弹控制技术专家刘纪原逝世",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/519643.sHtML"
+    },
+    {
+      "platform": "如何看待山东聊城「父亲当街脚踹女儿，路人制止反被定罪」一案？",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/025271.sHtML"
+    },
+{
+      "platform": "老婆让我给她找健身搭子，手把手教学",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/800706.sHtML"
+    },
+{
+      "platform": "httpspider工具箱,支持视频下载、滚动长截图、抓包分析、直播下载、图片下载",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/055399.sHtML"
+    },
+{
+      "platform": "金莎再唱《星月神话》",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/336923.sHtML"
+    },
+{
+      "platform": "极空间部署Stirling PDF：搭建自托管PDF工具箱并实现远程访问",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/047154.sHtML"
+    },
+{
+      "platform": "中国建筑(601668.SH)近期合计获133.9亿元重大项目",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/262419.sHtML"
+    },
+{
+      "platform": "公积金此次变化意味着什么",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/667074.sHtML"
+    },
+{
+      "platform": "买票占座放零食 这座位该让吗",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/264933.sHtML"
+    },
+{
+      "platform": "就你这样还跟我表白",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/251360.sHtML"
+    },
+{
+      "platform": "女孩买空座放零食 大姐想坐遭拒",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/810810.sHtML"
+    },
+    {
+      "platform": "公积金新政来了，有哪些利好？",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/237485.sHtML"
+    },
+{
+      "platform": "自制AI电影出马仙镇东北",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/694153.sHtML"
+    },
+{
+      "platform": "Project Trust 不是 Sandbox：Pi Agent 的安全边界怎样补齐",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/007384.sHtML"
+    },
+{
+      "platform": "乌克兰防空陷入越打越亏死循环",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/714956.sHtML"
+    },
+{
+      "platform": "赛力斯 2026 年半年度归母亏损 17.17 亿元，同比下降 158.38%",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/449042.sHtML"
+    },
+{
+      "platform": "267 英寸巨幕打游戏、第一视角拍 Coser，雷鸟创新CJ26亮相",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/267513.sHtML"
+    },
+{
+      "platform": "正当防卫！昆山龙哥后又一正道的光",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/454758.sHtML"
+    },
+{
+      "platform": "女子坐高铁遇咸猪手果断报警",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/672707.sHtML"
+    },
+{
+      "platform": "总经理接供应商私活赚1036万",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/076045.sHtML"
+    },
+{
+      "platform": "媒体：天津还能重回巅峰吗",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/181368.sHtML"
+    },
+    {
+      "platform": "白衣男子疯狂挥拳挑衅，却被黑衣男子单手按倒击打",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/619489.sHtML"
+    },
+{
+      "platform": "吓到腿软，电梯突然失控从31楼下坠到负2楼！一家三人分别遭遇电梯下坠事件，海伦国际小区电梯故障频发",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/331753.sHtML"
+    },
+{
+      "platform": "章子怡，投资230万套现3个亿",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/797154.sHtML"
+    },
+{
+      "platform": "1944年、纳粹德国陆军元帅京特·冯·克鲁格畏罪自杀",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/826137.sHtML"
+    },
+{
+      "platform": "皇马为伯纳多-席尔瓦举行官方欢迎仪式，双方签约2年",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/932914.sHtML"
+    },
+{
+      "platform": "3 个月烧掉 105 亿，腾讯急了",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/259104.sHtML"
+    },
+{
+      "platform": "迪丽热巴陈飞宇恋情传闻时间线",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/809207.sHtML"
+    },
+{
+      "platform": "当地回应升学宴事故致5人死亡",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/445426.sHtML"
+    },
+{
+      "platform": "国家气候中心：厄尔尼诺快速发展，大概率成历史最强，预计11—12月达峰值",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/735382.sHtML"
+    },
+{
+      "platform": "办公工具箱合集打包一体了，看看市场需求量大不大",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/622539.sHtML"
+    },
+    {
+      "platform": "波斯湾的美军要跑路了？",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/432181.sHtML"
+    },
+{
+      "platform": "纪念奥特曼 60 周年：全新特别短片《赛罗奥特曼 宇宙跃升》中字版上线，坂本浩一执导",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/857761.sHtML"
+    },
+{
+      "platform": "小鹏G9L双工况场景极限 续航挑战！城区达成率：122.5%/高速达成率：85.3%",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/468919.sHtML"
+    },
+{
+      "platform": "孩子滔滔不绝跟你讲游戏里的细节，你会怎么反应？",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/435280.sHtML"
+    },
+{
+      "platform": "海军中将赵晓哲院士被工程院“除名”",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/001981.sHtML"
+    },
+{
+      "platform": "飞牛NAS部署Hermes Agent：RK3566接入DeepSeek、微信与远程控制台",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/181591.sHtML"
+    },
+{
+      "platform": "假冒“港中大客座教授”“西部新闻网总编”，张龙50多个头衔从何而来",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/065952.sHtML"
+    },
+{
+      "platform": "马来西亚总理强调台湾属于中国",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/662516.sHtML"
+    },
+{
+      "platform": "矿工九级伤残遭拒赔",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/990726.sHtML"
+    },
+{
+      "platform": "宇树科技王兴兴身家超千亿元，成 90 后新首富",
+      "share_url": "http://www.blog.zzissoh.cn/Article/details/317936.sHtML"
+    }
+]
+}
+<h2>行业趋势点评</h2><br>
+
+<hr></hr><hr></hr><br>
+<h2>**AI Builders Digest* | 每日06:00自动播报 | 数据来源：</h2><br>
+
+<hr></hr><br>
+<p>*报告生成时间：2026年08月23日01时04分42秒*</p>
+<br>
+<p>*数据来源：新浪财经、公开媒体报道*</p>
